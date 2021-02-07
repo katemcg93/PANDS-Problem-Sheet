@@ -1,6 +1,6 @@
 ﻿# Problem-Sheet
  
-# Week 2 Labs <br/>
+## Week 2 Labs <br/>
 
 ### References <br/>
 The resources I consulted for the BMI calcluator are as follows: <br/>
