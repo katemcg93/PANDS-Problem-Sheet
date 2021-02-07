@@ -16,12 +16,12 @@ For this lab I added an extra check, I didn't want the user to proceed if they d
 ### References <br/>
 
 The resources I consulted for this lab are as follows: <br/>
-https://www.freecodecamp.org/news/python-while-loop-tutorial-do-while-true-example-statement/
-https://stackoverflow.com/questions/3754620/what-does-while-true-mean-in-python
-https://www.kite.com/python/answers/how-to-use-while-true-in-python
-https://www.w3schools.com/python/python_howto_reverse_string.asp
-https://stackoverflow.com/questions/20337489/python-how-to-keep-repeating-a-program-until-a-specific-input-is-obtained
-https://thehelloworldprogram.com/python/python-string-methods/#:~:text=upper()%20and%20.,of%20the%20characters%20to%20lowercase.
+- https://www.freecodecamp.org/news/python-while-loop-tutorial-do-while-true-example-statement/
+- https://stackoverflow.com/questions/3754620/what-does-while-true-mean-in-python
+- https://www.kite.com/python/answers/how-to-use-while-true-in-python
+- https://www.w3schools.com/python/python_howto_reverse_string.asp
+- https://stackoverflow.com/questions/20337489/python-how-to-keep-repeating-a-program-until-a-specific-input-is-obtained
+- https://thehelloworldprogram.com/python/python-string-methods/#:~:text=upper()%20and%20.,of%20the%20characters%20to%20lowercase.
 
  <br/>
   
