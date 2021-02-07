@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Programming",
+			"path": ".."
+		},
+		{
+			"name": "Problem-Sheet",
+			"path": "."
+		},
+		{
+			"name": "Problem-Sheet",
+			"path": "..\\Problem Sheets\\Problem-Sheet"
+		}
+	],
+	"settings": {}
+}
