@@ -47,11 +47,12 @@ while(intForm < 0):
 #Calculation stops when 1 is reached
 
 else:
+    print(no, end = " ")
     while intForm > 1:
         if intForm % 2 == 0:
             intForm = intForm // 2
             print(intForm, end = " ")
-        elif intForm % 2 != 0:
+        else: 
             intForm = (intForm * 3) + 1
             print(intForm, end = " ")
 
