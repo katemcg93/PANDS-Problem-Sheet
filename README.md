@@ -1,8 +1,8 @@
 ﻿# Problem-Sheet
  
 ## Week 2 Labs <br/>
-*Note 07/02/2021 I uploaded this assignment last week, but I didn't realise we needed a separate repository for problem sheets until I went back and read the brief, so it was in my overall PANDs repository until I moved it today
-*Note 2: There are several irrelevant commits for this week, I was having issues with files appearing in the repository that I didn't want, I accidentally merged this and my main PANDS repository. The commit "adding new files to repo" is where I managed to upload the problem sheet files
+<br/>*Note 07/02/2021 I uploaded this assignment last week, but I didn't realise we needed a separate repository for problem sheets until I went back and read the brief, so it was in my overall PANDs repository until I moved it today<br/>
+<br/>*Note 2: There are several irrelevant commits for this week, I was having issues with files appearing in the repository that I didn't want, I accidentally merged this and my main PANDS repository. The commit "adding new files to repo" is where I managed to upload the problem sheet files<br/>
 
 ### References <br/>
 
