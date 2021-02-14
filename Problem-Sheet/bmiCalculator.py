@@ -15,7 +15,7 @@ heightM = height / 100
 #calculate BMI, rounding it to the nearest whole number
 #convert the output back to a string to feed back to user
 
-bmi = round (weight / (heightM ** 2))
+bmi = round (weight / (heightM ** 2),2)
 print ("Your BMI is " + str(bmi))
 
 #this is extra output giving feedback to user based on BMI calculation. 
