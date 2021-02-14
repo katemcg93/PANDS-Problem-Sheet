@@ -10,6 +10,7 @@ The resources I consulted for the BMI calcluator are as follows: <br/>
   - https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-numbers <br/>
   - https://www.w3schools.com/python/python_conditions.asp <br/>
   
+  
   ## Week 3 Labs <br/>
 For this lab I added an extra check, I didn't want the user to proceed if they didn't enter any letters. To do this I added a variable that changed their string to uppercase, and a validation check that would evaluate whether the converted string had any uppercase letters in it. I I added a while loop that would keep asking them to enter a sentence, unless their string contained uppercase letters. If the string did contain uppercase letters, then the original string would be reversed and printed
 
