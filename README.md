@@ -32,7 +32,7 @@ For this lab, the task was to ask the user to input a whole, positive number. Th
 
 To accomplish this, I included three loops in my programme. The first loop checks whether the value entered by users is a digit or letters. If they enter letters, the programme will feed back that they failed to enter a valid number, and repeat until they enter a digit.
 
-The next loop determines whether they've entered a positive number by checking if the number is less than zero. If the number is less than 0, this actually crashes the programme, because 1 is never reached in the calculations, so it is important the user isn't allowed to proceed with a negative number. Therefore, the loop will not be broken until the user enters a positive number. 
+The next loop determines whether they've entered a positive number by checking if the number is less than zero. If the number is less than 0, this actually crashes the programme, because 1 is never reached in the calculations. Therefore it is important the user isn't allowed to proceed with a negative number. Therefore, the loop will not be broken until the user enters a positive number. 
 
 The final loop is reached when the user enters a positive number. While this number is greater than 1, the programme will perform calculations on it until 1 is reached, at which point the programme ends. While the number is positive, it will be multiplied by 2 and while negative, multiplied by 3 and 1 added to it. These calculations will repeat until the product is 1, and the results of each calculation are printed out for the user.
 

@@ -9,7 +9,8 @@
 #First the program will attempt to open the file
 #If no file is found then the user will be asked to enter a valid file name
 
-#Also converting all e's in the programme to lower case to ensure any that were originally upper case will be counted
+#Also converting all e's in the programme to lower case 
+# to ensure any that were originally upper case will be counted
 
 import sys
 def readText():

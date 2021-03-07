@@ -16,7 +16,8 @@
 no = input("Please enter a number:")
 
 #While loop that checks if input contains letters
-#User will be prompted to enter a number until digits are detected, then loop breaks
+#User will be prompted to enter a number until digits are detected, 
+# then loop breaks
 
 while no.isalpha():
     print("This is not a number:")

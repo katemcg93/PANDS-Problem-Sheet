@@ -1,5 +1,5 @@
 #This programme will get the current weekday based on current date
-#Response of programme will depend on whether it's a weekday or weekend
+#Response of programme will depend on whether it's a weekday/weekend
 
  #need to import date/time module before we can do any date manipulation
 import datetime
