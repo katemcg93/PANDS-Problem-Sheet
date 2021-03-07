@@ -8,7 +8,7 @@
     # where a is the number you want the square root for, x is your guess and y is the square root       
     # This will give you a better approximation of the square root than your initial guess
     # If you plug this approximation into the formula this will again bring you closer to the square root and so on,
-    # until the square root is eventually reached
+    # until square root is eventually reached
 
 
 #a is number we want sqrt of 
