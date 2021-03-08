@@ -1,6 +1,6 @@
 ﻿# Problem-Sheet
  
-## Week 2 Labs <br/>
+## Week 2 <br/>
 <br/>*Note 07/02/2021 I uploaded this assignment last week, but I didn't realise we needed a separate repository for problem sheets until I went back and read the brief, so it was in my overall PANDs repository until I moved it today<br/>
 <br/>*Note 2: There are several irrelevant commits for this week, I was having issues with files appearing in the repository that I didn't want, I accidentally merged this and my main PANDS repository. The commit "adding new files to repo" is where I managed to upload the problem sheet files<br/>
 
@@ -12,12 +12,12 @@ The resources I consulted for the BMI calcluator are as follows: <br/>
   - https://www.w3schools.com/python/python_conditions.asp <br/>
   
   
-  ## Week 3 Labs <br/>
-For this lab I added an extra check, I didn't want the user to proceed if they didn't enter any letters. To do this I added a variable that changed their string to uppercase, and a validation check that would evaluate whether the converted string had any uppercase letters in it. I I added a while loop that would keep asking them to enter a sentence, unless their string contained uppercase letters. If the string did contain uppercase letters, then the original string would be reversed and printed
+  ## Week 3 <br/>
+For this task I added an extra check, I didn't want the user to proceed if they didn't enter any letters. To do this I added a variable that changed their string to uppercase, and a validation check that would evaluate whether the converted string had any uppercase letters in it. I I added a while loop that would keep asking them to enter a sentence, unless their string contained uppercase letters. If the string did contain uppercase letters, then the original string would be reversed and printed
 
 ### References <br/>
 
-The resources I consulted for this lab are as follows: <br/>
+The resources I consulted for this task are as follows: <br/>
 - https://www.freecodecamp.org/news/python-while-loop-tutorial-do-while-true-example-statement/
 - https://stackoverflow.com/questions/3754620/what-does-while-true-mean-in-python
 - https://www.kite.com/python/answers/how-to-use-while-true-in-python
@@ -27,8 +27,8 @@ The resources I consulted for this lab are as follows: <br/>
 
  <br/>
  
-   ## Week 4 Labs <br/>
-For this lab, the task was to ask the user to input a whole, positive number. The next step was to check if the number was odd or even. If even, the number should be divided by two and if odd, multiplied by three and one added. The programme should end once the calculation got to one.
+   ## Week 4 <br/>
+For this task, the task was to ask the user to input a whole, positive number. The next step was to check if the number was odd or even. If even, the number should be divided by two and if odd, multiplied by three and one added. The programme should end once the calculation got to one.
 
 To accomplish this, I included three loops in my programme. The first loop checks whether the value entered by users is a digit or letters. If they enter letters, the programme will feed back that they failed to enter a valid number, and repeat until they enter a digit.
 
@@ -39,7 +39,7 @@ The final loop is reached when the user enters a positive number. While this num
 
 ### References <br/>
 
-The resources I consulted for this lab are as follows: <br/>
+The resources I consulted for this task are as follows: <br/>
 - https://www.w3schools.com/python/ref_string_isdigit.asp
 - https://www.w3schools.com/python/trypython.asp?filename=demo_oper_floordiv
 - https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/
@@ -51,14 +51,14 @@ The resources I consulted for this lab are as follows: <br/>
 
  <br/>
  
- ## Week 5 Labs <br/>
+ ## Week 5 <br/>
  This programme checks whether or not it's currently the weekend and feeds back to the user accordingly. It does this by importing the datetime module, then getting the current system date. From the current date, the day in string form is extracted.
  The 7 weekdays are stored in a list. The programme checks the current day against the list of weekdays and the response printed out is based on the position of the corresponding weekday in the list. If the current day's match is in position 0 - 4 on the list, that means it's a weekday, otherwise it's the weekend.
 
 
 ### References <br/>
 
-The resources I consulted for this lab are as follows: <br/>
+The resources I consulted for this task are as follows: <br/>
 - https://www.w3schools.com/python/python_datetime.asp
 - https://www.programiz.com/python-programming/datetime/current-datetime
 - https://www.w3schools.com/python/gloss_python_string_slice.asp
@@ -66,14 +66,14 @@ The resources I consulted for this lab are as follows: <br/>
 
  <br/>
 
-  ## Week 6 Labs <br/>
+  ## Week 6 <br/>
  This programme gets the square root of a number without using any of the built in python functions like square root. Instead, the square root is obtained using a function, which takes a positive integer as an argument. The square root of this integer is calculated using Newton's method. Newton's method uses iterative calculations, based on an initial approximation, to find the square root of a number.
 
  The function has three variables: a,which is the number to calculate the square root for, x, the initial approximation, which is set to 1, and y, the square root of the number. Plugging the values for a and x into Newton's method will give a value for y that was closer than the original guess. The programme will keep running the formula until the difference between x and y is less than 0.0000001. This means that the approximated square root and the value obtained from Newton's formula are equal (or close to equal for number that aren't perfect squares). The loop is broken, and the square root, correct to 2 decimal places, is printed.
 
 ### References <br/>
 
-The resources I consulted for this lab are as follows: <br/>
+The resources I consulted for this task are as follows: <br/>
 - https://www.school-for-champions.com/algebra/square_root_approx.htm#.YEQC3Z37SM-
 - https://gist.github.com/aksiksi/2366925
 - https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
@@ -84,7 +84,7 @@ The resources I consulted for this lab are as follows: <br/>
 
  <br/>
 
-   ## Week 7 Labs <br/>
+   ## Week 7 <br/>
  This programme contains a function that will read a text file and return the number of e's it contains. 
  
  It should be called using the command line, entering the name of file to be processed as an argument. The function then attempts to open the file. If a non-existent file is entered, an error message will be returned asking the user to enter a valid file name.
@@ -93,7 +93,7 @@ The resources I consulted for this lab are as follows: <br/>
 
 ### References <br/>
 
-The resources I consulted for this lab are as follows: <br/>
+The resources I consulted for this task are as follows: <br/>
 - https://realpython.com/lessons/sysargv-in-depth/
 - https://realpython.com/lessons/basic-error-handling/
 - https://stackoverflow.com/questions/43573210/python-reading-filename-from-command-line-argument
