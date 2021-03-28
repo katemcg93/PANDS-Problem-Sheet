@@ -13,17 +13,22 @@
 #Programme ends when 1 is reached
 
 
-no = input("Please enter a number:")
+#no = input("Please enter a number:")
 
-#While loop that checks if input contains letters
+#Function that checks if input contains letters
 #User will be prompted to enter a number until digits are detected, 
 # then loop breaks
 
-while no.isalpha():
-    print("This is not a number:")
-    no = input("Enter a valid number:")     
-    if no.isdigit():
-        break
+def checkdigit():
+    no = input("Please enter a number:")
+    while no.isalpha():
+        print("This is not a number:")
+        no = input("Enter a valid number:")     
+        if no.isdigit():
+            break
+    return no
+
+no = checkdigit()
 
 #Variable converting input to integer to check if positive and do calculations
 intForm = int(no)
@@ -33,14 +38,14 @@ intForm = int(no)
 
 while(intForm < 0):
     print("This is not a positive number")
-    no = input("Enter a positive number:")
+    no = checkdigit()
     intForm = int(no)
 
 #Final loop of programme
 #Checks if value of integer is greater than 1, 
 #For as long as it is >1 programme continues
 
-# When the number is even programme divides number by 2 (// is to eliminate floating numbers)
+# When the number is even programme divides number by 2 (// is to eliminate floats)
 #When number is odd, it is multiplied by three and 1 is added
 
 #The results of each calculation are printed
@@ -60,4 +65,3 @@ else:
 
   
     
-
