@@ -17,20 +17,21 @@ def squareRoot(a):
 
 #x will be initial guess, set to 1 
 
-    x=1  
+    x = 1  
+    y = (x + a/x)/2
 
 #Putting in while loop to make program iterate through formula until square root is reached  
   
-    while True:
-        y= (x + a/x)/2
+    while abs(x-y) > 0.00000001:
+        x = y
+        y = (x + a/x)/2
+    
+        if abs(x-y) < 0.00000001:
+            print(round(y,2))
 
-#When the actual square root of the number(y) and the approximation (x) are true, this means we can stop the loop
+#When the actual square root of the number(y) and the approximation (x) are equal, this means we can stop the loop
 #0.00000001 is used rather than 0 to allow for integers that aren't perfect squares. 
 #Number is rounded to two decimal places before being printed
 
-        if abs(x-y) < 0.00000001:
-            print(round(y,2))
-            break
-        x=y
 
-squareRoot(81)
+squareRoot(99999)
