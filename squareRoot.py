@@ -11,6 +11,7 @@
     # until square root is eventually reached
 
 
+import sys
 #a is number we want sqrt of 
 
 def squareRoot(a): 
@@ -34,4 +35,23 @@ def squareRoot(a):
 #Number is rounded to two decimal places before being printed
 
 
-squareRoot(99999)
+numstr = input ("Please enter a positive number:")
+
+while True:
+    try:
+        num = int(numstr)
+        if num > 0:
+            squareRoot (num)
+            break
+        else:
+            print("This is not a valid number, please try again")
+            numstr = input("Please enter a positive number")
+
+    except ValueError as e:
+        numstr = input("Please enter a positive number:")
+    
+
+
+
+
+
