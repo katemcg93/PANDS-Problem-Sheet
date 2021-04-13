@@ -5,8 +5,8 @@
 
 # Get height and weight inputs and convert to whole numbers
 
-height = int (input ("Hey, what's your height in cm?"))
-weight = int (input ("How about your weight in kg?"))
+height = int (input ("Please enter your height in cm : "))
+weight = int (input ("Please enter your weight in kg : "))
 
 #height input was in cm, need to convert this to metres for formula
 

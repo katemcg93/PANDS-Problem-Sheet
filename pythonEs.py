@@ -7,7 +7,7 @@
 
 #I've also attempted some error handling. 
 #First the program will attempt to open the file
-#If no file is found then the user will be asked to enter a valid file name
+#If no file is found then the user will be told the file doesn't exist
 
 #Also converting all e's in the programme to lower case 
 # to ensure any that were originally upper case will be counted
@@ -22,7 +22,8 @@ def readText():
             print(totalEs)
 
     except FileNotFoundError:
-        print("Please enter a valid file name")
+        print("File does not exist")
 
+        
 readText()
 

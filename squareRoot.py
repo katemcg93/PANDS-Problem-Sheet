@@ -12,6 +12,7 @@
 
 
 import sys
+
 #a is number we want sqrt of 
 
 def squareRoot(a): 
@@ -34,7 +35,7 @@ def squareRoot(a):
 #0.00000001 is used rather than 0 to allow for integers that aren't perfect squares. 
 #Number is rounded to two decimal places before being printed
 
-
+#Below section is validating input, programme will not be allowed to proceed and the function will not run until the user enters a positive integer
 numstr = input ("Please enter a positive number:")
 
 while True:
@@ -44,8 +45,7 @@ while True:
             squareRoot (num)
             break
         else:
-            print("This is not a valid number, please try again")
-            numstr = input("Please enter a positive number")
+            numstr = input("Please enter a positive number: ")
 
     except ValueError as e:
         numstr = input("Please enter a positive number:")
