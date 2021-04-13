@@ -28,8 +28,8 @@ def squareRoot(a):
         x = y
         y = (x + a/x)/2
     
-        if abs(x-y) < 0.00000001:
-            print(round(y,2))
+    else:
+        print(round(y,2))
 
 #When the actual square root of the number(y) and the approximation (x) are equal, this means we can stop the loop
 #0.00000001 is used rather than 0 to allow for integers that aren't perfect squares. 
