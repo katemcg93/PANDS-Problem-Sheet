@@ -119,7 +119,8 @@ The resources I consulted for this task are as follows: <br/>
 
  <br/>
 
-    ## Week 8 <br/>
+   
+ ## Week 8 <br/>
 This programme plots three functions, f(x), f(x^2) and f(x^3) on the same graph and outputs the plot.
 
 Two modules need to be imported for the plot to work. The first is numpy, which is needed to create the arrays to be plotted. The second is the matplotlib pyplot module, which is required to create the plots. Each of the lines are plotted in the range 0-4 on the x axis. The  exponent applied to the numpy array will determine the slope of each line. 
