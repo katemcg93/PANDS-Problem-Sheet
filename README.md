@@ -11,6 +11,16 @@ G00398908
 
 ### Overview of Repository<br/>
 Submitted as part of assessment for the Programming and Scripting Module, which was undertaken as part of the Higher Diploma in Data Analytics at GMIT. This repository contains the solution to each of the weekly Python tasks. This readme explains the purpose/behaviour of each programme, and outlines any external sources of information used. 
+
+### Code and Modules Required<br/>
+The repository contains solely Python code, developed using the following software:
+- Microsoft VS Code
+- Anaconda 
+- Cmder
+
+The following additional modules should be installed to run the code without issue:
+- matplotlib (pyplot)
+- numpy
  
 ### Week 2 <br/>
 
