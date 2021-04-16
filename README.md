@@ -50,12 +50,12 @@ The resources I consulted for the BMI calcluator are as follows: <br/>
 #### References <br/>
 
 The resources I consulted for this task are as follows: <br/>
-<br/>[1] Free Code Camp, Python While Loop Tutorial. URL: https://www.freecodecamp.org/news/python-while-loop-tutorial-do-while-true-example-statement/ [Accessed 07/02/2021]<br/>
-<br/>[2] Stack Overflow, What does While True Mean in Python. URL: https://stackoverflow.com/questions/3754620/what-does-while-true-mean-in-python [Accessed 07/02/2021]<br/>
-<br/>[3] Kite.com, How to use While True in Python. URL: https://www.kite.com/python/answers/how-to-use-while-true-in-python [Accessed 07/02/2021]<br/>
-<br/>[4] W3Schools, How to Revese String. URL:https://www.w3schools.com/python/python_howto_reverse_string.asp [Accessed 07/02/2021]<br/>
-<br/>[5] Stack Overflow, How to Repeat Programme until Specific Output Obtained. URL: https://stackoverflow.com/questions/20337489/python-how-to-keep-repeating-a-program-until-a-specific-input-is-obtained [Accessed 07/02/2021]<br/>
-<br/>[6] The Hello World Programme, Python String Methods. URL: https://thehelloworldprogram.com/python/python-string-methods/#:~:text=upper()%20and%20.,of%20the%20characters%20to%20lowercase [Accessed 07/02/2021] <br/>
+<br/>[1] Free Code Camp, Python While Loop Tutorial. URL: https://www.freecodecamp.org/news/python-while-loop-tutorial-do-while-true-example-statement/ [Accessed 07/02/2021]
+<br/>[2] Stack Overflow, What does While True Mean in Python. URL: https://stackoverflow.com/questions/3754620/what-does-while-true-mean-in-python [Accessed 07/02/2021]
+<br/>[3] Kite.com, How to use While True in Python. URL: https://www.kite.com/python/answers/how-to-use-while-true-in-python [Accessed 07/02/2021]
+<br/>[4] W3Schools, How to Revese String. URL:https://www.w3schools.com/python/python_howto_reverse_string.asp [Accessed 07/02/2021]
+<br/>[5] Stack Overflow, How to Repeat Programme until Specific Output Obtained. URL: https://stackoverflow.com/questions/20337489/python-how-to-keep-repeating-a-program-until-a-specific-input-is-obtained [Accessed 07/02/2021]
+<br/>[6] The Hello World Programme, Python String Methods. URL: https://thehelloworldprogram.com/python/python-string-methods/#:~:text=upper()%20and%20.,of%20the%20characters%20to%20lowercase [Accessed 07/02/2021] 
 
  <br/>
  
