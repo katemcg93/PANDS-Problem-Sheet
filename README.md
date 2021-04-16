@@ -31,11 +31,11 @@ The following additional modules should be installed to run the code without iss
 #### References <br/>
 
 The resources I consulted for the BMI calcluator are as follows: <br/>
-<br/>[1] Stack Overflow, Using in Range in an if and Else statement. URL:  https://stackoverflow.com/questions/12140185/using-in-range-in-an-if-else-statment [Accessed 01/02/2021]<br/> 
-  <br/>[2] Stack Overflow, How to Read Inputs as numbers. URL: https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-numbers [Accessed 01/02/2021] <br/>
-  <br/>[3] W3Schools, Python Conditions. URL: https://www.w3schools.com/python/python_conditions.asp [Accessed 01/02/2021] <br/>
-  <br/>[4] Real Python, Python Conditional Statements. https://realpython.com/python-conditional-statements/ [Accessed 01/02/2021] <br/>
-  <br/>[5] Geeks for Geeks,How to Take Integer Input in Python.  https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/ [Accessed 01/02/2021]<br/>
+<br/>[1] Stack Overflow, Using in Range in an if and Else statement. URL:  https://stackoverflow.com/questions/12140185/using-in-range-in-an-if-else-statment [Accessed 01/02/2021]
+  <br/>[2] Stack Overflow, How to Read Inputs as numbers. URL: https://stackoverflow.com/questions/20449427/how-can-i-read-inputs-as-numbers [Accessed 01/02/2021] 
+  <br/>[3] W3Schools, Python Conditions. URL: https://www.w3schools.com/python/python_conditions.asp [Accessed 01/02/2021] 
+  <br/>[4] Real Python, Python Conditional Statements. https://realpython.com/python-conditional-statements/ [Accessed 01/02/2021]
+  <br/>[5] Geeks for Geeks,How to Take Integer Input in Python.  https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/ [Accessed 01/02/2021]
   <br/>
   
   
